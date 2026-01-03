@@ -1,0 +1,101 @@
+Member ID,Age,Skills,Availability,Task Preference,Task Name,Task Description,Task Duration,Task Difficulty,Priority Level,Task Skills Required,Assigned Status,Feedback
+M001,50,"['Teaching', 'DIY', 'Cooking']",Afternoons,Physical,Fold laundry,Prepare a chocolate cake for dessert.,2 hours,Hard,Low,"['DIY', 'Organizing']",Unassigned,-
+M002,24,"['Cleaning', 'DIY']",Afternoons,Indoor,Vacuum the living room,Repair the broken chair.,1 hour,Medium,High,"['Baking', 'Gardening']",Unassigned,Great job!
+M003,11,"['Cleaning', 'Teaching']",Afternoons,Outdoor,Help with homework,Decorate the house for the party.,30 minutes,Easy,Low,"['Cleaning', 'Cooking']",Completed,Fantastic effort!
+M004,51,"['Painting', 'Organizing', 'Teaching']",Afternoons,Physical,Fold laundry,Paint the backyard fence.,3 hours,Hard,High,['Teaching'],Completed,Could improve!
+M005,47,"['Gardening', 'Cooking']",Evenings,Indoor,Paint the fence,Arrange books by size and genre.,1 hour,Medium,Medium,['Cooking'],Completed,Could improve!
+M006,24,['Gardening'],Weekdays,Indoor,Arrange the tools,Assist with math homework.,30 minutes,Hard,Medium,"['Cooking', 'Organizing']",Completed,Fantastic effort!
+M007,40,['Teaching'],Weekdays,Indoor,Fold laundry,Plan activities and games for the family gathering.,2 hours,Medium,Medium,['Teaching'],Assigned,Could improve!
+M008,19,['Painting'],Evenings,Outdoor,Water the plants,Cook dinner for the family.,2 hours,Hard,Medium,['Cooking'],Assigned,Great job!
+M009,30,"['Painting', 'DIY']",Evenings,Physical,Organize bookshelf,Organize tools in the toolbox.,1 hour,Easy,Low,['Teaching'],Unassigned,Fantastic effort!
+M010,21,"['Baking', 'Gardening']",Weekdays,Physical,Bake a cake,Assist with math homework.,30 minutes,Easy,Low,"['Gardening', 'Cooking']",Assigned,Fantastic effort!
+M011,45,"['Cleaning', 'DIY', 'Organizing']",Weekends,Outdoor,Bake a cake,Paint the backyard fence.,3 hours,Hard,Low,"['Cooking', 'Baking']",Assigned,Fantastic effort!
+M012,38,"['Teaching', 'Painting']",Weekends,Outdoor,Sort recycling,Arrange books by size and genre.,1 hour,Easy,High,"['Baking', 'Painting']",Unassigned,Great job!
+M013,32,['Teaching'],Evenings,Physical,Arrange the tools,Water all indoor and outdoor plants.,3 hours,Medium,Low,"['DIY', 'Baking']",Assigned,Fantastic effort!
+M014,31,['Baking'],Weekends,Creative,Plan a family event,Fold and organize clean clothes.,3 hours,Easy,Medium,"['Teaching', 'Baking']",Unassigned,-
+M015,11,"['Teaching', 'Baking', 'Cooking']",Weekends,Creative,Paint the fence,Fold and organize clean clothes.,3 hours,Easy,Low,"['Baking', 'Teaching']",Completed,Well done!
+M016,45,"['Teaching', 'Baking']",Weekends,Physical,Prepare dinner,Arrange books by size and genre.,30 minutes,Easy,High,"['Cooking', 'Cleaning']",Unassigned,-
+M017,51,"['Cooking', 'DIY', 'Cleaning']",Afternoons,Creative,Weed the garden,Arrange books by size and genre.,30 minutes,Hard,Medium,['Cleaning'],Assigned,-
+M018,56,"['Organizing', 'Baking', 'DIY']",Weekends,Creative,Bake a cake,Wash and polish the car.,1 hour,Hard,Low,['Baking'],Completed,Could improve!
+M019,19,"['DIY', 'Organizing']",Weekends,Physical,Wash the car,Assist with math homework.,30 minutes,Medium,Low,['Cooking'],Completed,Great job!
+M020,11,"['Teaching', 'Baking']",Evenings,Physical,Prepare dinner,Clean and organize the garage space.,1 hour,Hard,High,['Cleaning'],Unassigned,-
+M021,35,['Cleaning'],Weekends,Outdoor,Decorate for a party,Assist with math homework.,3 hours,Hard,High,"['Organizing', 'Cleaning']",Assigned,Well done!
+M022,56,['Gardening'],Evenings,Physical,Help with homework,Remove weeds from the flowerbeds.,2 hours,Hard,High,"['Teaching', 'Organizing']",Unassigned,Great job!
+M023,48,"['Gardening', 'Teaching', 'Cleaning']",Weekdays,Outdoor,Prepare dinner,Plan activities and games for the family gathering.,30 minutes,Easy,Medium,"['Painting', 'Organizing']",Assigned,Great job!
+M024,38,"['Organizing', 'Cooking', 'Teaching']",Afternoons,Indoor,Paint the fence,Decorate the house for the party.,3 hours,Hard,Low,['Organizing'],Assigned,Fantastic effort!
+M025,39,"['Baking', 'Cleaning']",Evenings,Creative,Decorate for a party,Vacuum the carpet and floors in the living room.,1 hour,Easy,High,['Baking'],Assigned,Great job!
+M026,56,['Cleaning'],Afternoons,Indoor,Arrange the tools,Arrange books by size and genre.,2 hours,Easy,Low,"['Painting', 'Cooking']",Completed,-
+M027,31,"['DIY', 'Organizing']",Afternoons,Creative,Decorate for a party,Fold and organize clean clothes.,30 minutes,Medium,Medium,['Baking'],Assigned,Could improve!
+M028,47,"['Cooking', 'Cleaning']",Evenings,Creative,Decorate for a party,Assist with math homework.,2 hours,Medium,High,['Gardening'],Unassigned,Could improve!
+M029,20,['DIY'],Weekends,Indoor,Paint the fence,Arrange books by size and genre.,1 hour,Medium,High,['Cooking'],Unassigned,-
+M030,12,"['Cleaning', 'Painting', 'Gardening']",Weekdays,Outdoor,Help with homework,Arrange books by size and genre.,2 hours,Hard,High,['Cleaning'],Completed,-
+M031,20,"['Painting', 'Gardening']",Afternoons,Outdoor,Organize bookshelf,Repair the broken chair.,1 hour,Medium,Medium,['Baking'],Unassigned,Could improve!
+M032,29,"['Painting', 'Cooking']",Weekends,Outdoor,Bake a cake,Clean and organize the garage space.,3 hours,Hard,Low,['DIY'],Completed,Well done!
+M033,32,['Cleaning'],Evenings,Outdoor,Fix the chair,Fold and organize clean clothes.,3 hours,Hard,Low,"['Organizing', 'Painting']",Assigned,Great job!
+M034,54,"['Cleaning', 'Baking', 'Cooking']",Weekdays,Physical,Weed the garden,Prepare a chocolate cake for dessert.,30 minutes,Hard,Medium,"['Cooking', 'Organizing']",Unassigned,Fantastic effort!
+M035,55,"['DIY', 'Gardening']",Afternoons,Indoor,Wash the car,Decorate the house for the party.,30 minutes,Easy,High,"['Baking', 'Cleaning']",Assigned,Great job!
+M036,33,"['Organizing', 'Cooking', 'Cleaning']",Afternoons,Outdoor,Weed the garden,Prepare a chocolate cake for dessert.,2 hours,Medium,High,['Gardening'],Unassigned,Great job!
+M037,21,['Organizing'],Evenings,Indoor,Vacuum the living room,Assist with math homework.,30 minutes,Easy,High,['Organizing'],Completed,Could improve!
+M038,32,['Cooking'],Afternoons,Outdoor,Water the plants,Vacuum the carpet and floors in the living room.,30 minutes,Hard,Medium,['Painting'],Assigned,Well done!
+M039,32,"['Cleaning', 'Painting']",Evenings,Outdoor,Fold laundry,Remove weeds from the flowerbeds.,1 hour,Medium,Low,['Teaching'],Assigned,Fantastic effort!
+M040,34,['Baking'],Afternoons,Outdoor,Organize bookshelf,Prepare a chocolate cake for dessert.,3 hours,Medium,High,"['Cleaning', 'Gardening']",Completed,Could improve!
+M041,34,['Cleaning'],Evenings,Creative,Clean the garage,Wash and polish the car.,3 hours,Medium,Low,['Cooking'],Unassigned,Fantastic effort!
+M042,28,"['Gardening', 'Painting']",Afternoons,Outdoor,Wash the car,Prepare a chocolate cake for dessert.,2 hours,Hard,Medium,['Organizing'],Unassigned,Fantastic effort!
+M043,34,"['Organizing', 'Cleaning', 'Painting']",Weekends,Outdoor,Vacuum the living room,Cook dinner for the family.,1 hour,Hard,High,"['Cooking', 'DIY']",Unassigned,Well done!
+M044,10,['Organizing'],Weekdays,Indoor,Fold laundry,Fold and organize clean clothes.,2 hours,Hard,Medium,"['DIY', 'Cooking']",Unassigned,Great job!
+M045,26,"['Baking', 'Cleaning']",Weekdays,Physical,Fold laundry,Clean and organize the garage space.,30 minutes,Medium,Medium,['Cleaning'],Unassigned,Well done!
+M046,50,['DIY'],Weekends,Physical,Bake a cake,Prepare a chocolate cake for dessert.,2 hours,Hard,Low,['Baking'],Completed,Well done!
+M047,33,"['Cleaning', 'Teaching', 'Cooking']",Weekends,Indoor,Wash the car,Fold and organize clean clothes.,3 hours,Easy,Low,"['DIY', 'Gardening']",Completed,Could improve!
+M048,49,"['Organizing', 'Cooking']",Weekdays,Creative,Bake a cake,Sort items for recycling.,2 hours,Easy,Low,"['Cooking', 'Baking']",Assigned,Well done!
+M049,41,"['Painting', 'Gardening']",Afternoons,Indoor,Sort recycling,Water all indoor and outdoor plants.,30 minutes,Hard,Low,['Painting'],Completed,-
+M050,50,"['Organizing', 'Cleaning']",Weekends,Outdoor,Arrange the tools,Water all indoor and outdoor plants.,30 minutes,Medium,Low,['Cleaning'],Assigned,Could improve!
+M051,48,"['Painting', 'Organizing', 'Gardening']",Weekends,Indoor,Prepare dinner,Prepare a chocolate cake for dessert.,2 hours,Hard,Low,"['Teaching', 'Painting']",Completed,Could improve!
+M052,41,"['Cleaning', 'Painting', 'DIY']",Afternoons,Creative,Decorate for a party,Assist with math homework.,2 hours,Easy,Low,['Teaching'],Assigned,Could improve!
+M053,27,"['Baking', 'Organizing', 'Painting']",Weekdays,Outdoor,Vacuum the living room,Cook dinner for the family.,3 hours,Easy,Medium,['Cooking'],Assigned,Great job!
+M054,43,['Baking'],Evenings,Outdoor,Water the plants,Cook dinner for the family.,1 hour,Hard,Medium,['Baking'],Completed,Could improve!
+M055,43,"['Gardening', 'Painting', 'Cooking']",Weekdays,Physical,Wash the car,Vacuum the carpet and floors in the living room.,30 minutes,Hard,Medium,['Organizing'],Completed,Fantastic effort!
+M056,33,['Teaching'],Evenings,Creative,Water the plants,Decorate the house for the party.,3 hours,Hard,Low,['Gardening'],Assigned,Great job!
+M057,26,"['Baking', 'Gardening']",Weekends,Indoor,Plan a family event,Sort items for recycling.,2 hours,Hard,Medium,['Cleaning'],Completed,Fantastic effort!
+M058,28,['Gardening'],Weekdays,Outdoor,Bake a cake,Organize tools in the toolbox.,3 hours,Hard,Low,['Organizing'],Unassigned,Well done!
+M059,29,"['DIY', 'Gardening']",Afternoons,Indoor,Water the plants,Assist with math homework.,3 hours,Hard,High,"['Painting', 'Cooking']",Unassigned,Could improve!
+M060,42,['Teaching'],Afternoons,Outdoor,Decorate for a party,Vacuum the carpet and floors in the living room.,1 hour,Hard,Medium,['Organizing'],Unassigned,Great job!
+M061,24,"['Cooking', 'Teaching']",Afternoons,Creative,Weed the garden,Cook dinner for the family.,2 hours,Medium,High,"['Baking', 'DIY']",Assigned,Fantastic effort!
+M062,10,['DIY'],Evenings,Creative,Bake a cake,Wash and polish the car.,30 minutes,Easy,High,['Baking'],Assigned,-
+M063,26,"['Organizing', 'DIY']",Afternoons,Creative,Fold laundry,Arrange books by size and genre.,3 hours,Medium,Medium,['DIY'],Assigned,-
+M064,51,"['DIY', 'Painting']",Afternoons,Outdoor,Fix the chair,Assist with math homework.,1 hour,Easy,Low,"['Cooking', 'Painting']",Completed,Fantastic effort!
+M065,59,['Teaching'],Weekends,Physical,Decorate for a party,Assist with math homework.,30 minutes,Easy,Low,"['DIY', 'Painting']",Completed,-
+M066,32,"['Teaching', 'Cooking', 'Gardening']",Afternoons,Physical,Fold laundry,Cook dinner for the family.,2 hours,Medium,Medium,['Gardening'],Completed,-
+M067,40,"['Gardening', 'Baking']",Afternoons,Creative,Plan a family event,Arrange books by size and genre.,3 hours,Hard,Medium,"['Cooking', 'Painting']",Unassigned,Fantastic effort!
+M068,49,"['Gardening', 'DIY']",Evenings,Physical,Vacuum the living room,Decorate the house for the party.,1 hour,Easy,High,"['Organizing', 'DIY']",Completed,Great job!
+M069,38,['DIY'],Evenings,Physical,Clean the garage,Paint the backyard fence.,30 minutes,Medium,Medium,['Cleaning'],Unassigned,Great job!
+M070,43,"['DIY', 'Gardening', 'Teaching']",Afternoons,Creative,Fold laundry,Prepare a chocolate cake for dessert.,2 hours,Hard,High,['DIY'],Assigned,Great job!
+M071,42,"['DIY', 'Cooking']",Weekends,Indoor,Fold laundry,Paint the backyard fence.,3 hours,Medium,Medium,"['DIY', 'Baking']",Completed,-
+M072,50,['Baking'],Weekdays,Outdoor,Arrange the tools,Water all indoor and outdoor plants.,3 hours,Easy,Medium,['DIY'],Assigned,Well done!
+M073,37,"['Cleaning', 'Gardening']",Weekdays,Indoor,Bake a cake,Vacuum the carpet and floors in the living room.,1 hour,Easy,Medium,['DIY'],Assigned,Could improve!
+M074,31,"['Painting', 'Organizing', 'DIY']",Weekdays,Indoor,Organize bookshelf,Sort items for recycling.,2 hours,Easy,Low,"['Cooking', 'Baking']",Completed,Could improve!
+M075,30,['DIY'],Weekdays,Outdoor,Fold laundry,Arrange books by size and genre.,30 minutes,Medium,High,"['Cleaning', 'Baking']",Assigned,-
+M076,16,"['DIY', 'Teaching', 'Cleaning']",Weekdays,Indoor,Wash the car,Prepare a chocolate cake for dessert.,3 hours,Easy,Low,"['Teaching', 'Gardening']",Completed,Could improve!
+M077,45,"['Baking', 'DIY', 'Gardening']",Weekends,Outdoor,Vacuum the living room,Arrange books by size and genre.,3 hours,Easy,High,['Cleaning'],Unassigned,Well done!
+M078,21,['Teaching'],Afternoons,Outdoor,Sort recycling,Prepare a chocolate cake for dessert.,2 hours,Easy,High,"['DIY', 'Gardening']",Assigned,Could improve!
+M079,14,"['Painting', 'Teaching']",Weekends,Physical,Water the plants,Clean and organize the garage space.,2 hours,Easy,Medium,"['Baking', 'DIY']",Unassigned,Great job!
+M080,45,['Cooking'],Weekdays,Indoor,Fold laundry,Repair the broken chair.,1 hour,Easy,Low,['Organizing'],Assigned,-
+M081,56,"['Cleaning', 'DIY']",Weekends,Creative,Prepare dinner,Sort items for recycling.,2 hours,Easy,Medium,"['Teaching', 'Baking']",Assigned,Well done!
+M082,37,['Gardening'],Weekdays,Physical,Paint the fence,Fold and organize clean clothes.,1 hour,Medium,Low,['Gardening'],Assigned,Could improve!
+M083,49,"['Baking', 'Organizing']",Weekdays,Creative,Weed the garden,Repair the broken chair.,2 hours,Easy,Medium,"['Cleaning', 'Cooking']",Unassigned,-
+M084,25,"['Painting', 'Gardening', 'Cleaning']",Afternoons,Creative,Plan a family event,Assist with math homework.,30 minutes,Medium,High,"['Cleaning', 'Painting']",Unassigned,Well done!
+M085,49,['Teaching'],Weekends,Creative,Decorate for a party,Assist with math homework.,3 hours,Medium,Medium,['DIY'],Completed,Fantastic effort!
+M086,13,['Painting'],Afternoons,Outdoor,Sort recycling,Vacuum the carpet and floors in the living room.,1 hour,Hard,High,"['DIY', 'Gardening']",Assigned,Well done!
+M087,11,['Cooking'],Afternoons,Indoor,Wash the car,Paint the backyard fence.,1 hour,Hard,Medium,['Organizing'],Completed,Could improve!
+M088,27,"['Painting', 'Baking']",Afternoons,Physical,Decorate for a party,Arrange books by size and genre.,3 hours,Medium,High,"['Cleaning', 'Gardening']",Completed,Could improve!
+M089,56,"['Teaching', 'Cleaning', 'Gardening']",Weekdays,Creative,Vacuum the living room,Remove weeds from the flowerbeds.,3 hours,Easy,Low,['Teaching'],Completed,-
+M090,10,"['DIY', 'Teaching', 'Painting']",Evenings,Physical,Paint the fence,Cook dinner for the family.,1 hour,Hard,High,['Painting'],Assigned,Could improve!
+M091,45,"['Gardening', 'DIY']",Afternoons,Outdoor,Plan a family event,Paint the backyard fence.,30 minutes,Medium,Medium,"['Painting', 'Gardening']",Assigned,Fantastic effort!
+M092,25,"['Gardening', 'Teaching', 'DIY']",Evenings,Indoor,Wash the car,Arrange books by size and genre.,1 hour,Hard,Low,"['Gardening', 'Organizing']",Completed,Well done!
+M093,36,"['Painting', 'DIY', 'Baking']",Afternoons,Indoor,Wash the car,Water all indoor and outdoor plants.,1 hour,Hard,Low,"['Gardening', 'Painting']",Completed,Well done!
+M094,54,"['Gardening', 'Painting']",Weekends,Outdoor,Weed the garden,Water all indoor and outdoor plants.,2 hours,Medium,Low,['Painting'],Assigned,-
+M095,58,['Organizing'],Weekends,Creative,Clean the garage,Assist with math homework.,1 hour,Medium,Low,['Teaching'],Assigned,-
+M096,50,['Cooking'],Weekends,Creative,Prepare dinner,Repair the broken chair.,3 hours,Hard,High,['Painting'],Completed,Well done!
+M097,46,"['Painting', 'Baking', 'Gardening']",Afternoons,Physical,Decorate for a party,Assist with math homework.,30 minutes,Medium,Medium,"['Teaching', 'Gardening']",Completed,Well done!
+M098,51,"['Cleaning', 'Baking']",Weekends,Creative,Water the plants,Plan activities and games for the family gathering.,30 minutes,Easy,High,"['Teaching', 'Painting']",Completed,-
+M099,14,['DIY'],Afternoons,Physical,Wash the car,Organize tools in the toolbox.,1 hour,Medium,High,"['Cooking', 'Painting']",Unassigned,Well done!
+M100,20,['Cleaning'],Weekdays,Outdoor,Clean the garage,Paint the backyard fence.,2 hours,Medium,Low,"['Gardening', 'Teaching']",Completed,-

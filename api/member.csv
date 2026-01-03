@@ -1,0 +1,102 @@
+Member_ID,Age,Skills,Availability,Task_Preference,Family_ID
+M001,50,"['Teaching', 'DIY', 'Cooking']",Afternoons,Physical,F1
+M002,24,"['Cleaning', 'DIY']",Afternoons,Indoor,F1
+M003,11,"['Cleaning', 'Teaching']",Afternoons,Outdoor,F1
+M004,51,"['Painting', 'Organizing', 'Teaching']",Afternoons,Physical,F1
+M005,47,"['Gardening', 'Cooking']",Evenings,Indoor,F1
+M006,24,['Gardening'],Weekdays,Indoor,F2
+M007,40,['Teaching'],Weekdays,Indoor,F2
+M008,19,['Painting'],Evenings,Outdoor,F2
+M009,30,"['Painting', 'DIY']",Evenings,Physical,F2
+M010,21,"['Baking', 'Gardening']",Weekdays,Physical,F2
+M011,45,"['Cleaning', 'DIY', 'Organizing']",Weekends,Outdoor,F3
+M012,38,"['Teaching', 'Painting']",Weekends,Outdoor,F3
+M013,32,['Teaching'],Evenings,Physical,F3
+M014,31,['Baking'],Weekends,Creative,F3
+M015,11,"['Teaching', 'Baking', 'Cooking']",Weekends,Creative,F3
+M016,45,"['Teaching', 'Baking']",Weekends,Physical,F4
+M017,51,"['Cooking', 'DIY', 'Cleaning']",Afternoons,Creative,F4
+M018,56,"['Organizing', 'Baking', 'DIY']",Weekends,Creative,F4
+M019,19,"['DIY', 'Organizing']",Weekends,Physical,F4
+M020,11,"['Teaching', 'Baking']",Evenings,Physical,F4
+M021,35,['Cleaning'],Weekends,Outdoor,F5
+M022,56,['Gardening'],Evenings,Physical,F5
+M023,48,"['Gardening', 'Teaching', 'Cleaning']",Weekdays,Outdoor,F5
+M024,38,"['Organizing', 'Cooking', 'Teaching']",Afternoons,Indoor,F5
+M025,39,"['Baking', 'Cleaning']",Evenings,Creative,F5
+M026,56,['Cleaning'],Afternoons,Indoor,F6
+M027,31,"['DIY', 'Organizing']",Afternoons,Creative,F6
+M028,47,"['Cooking', 'Cleaning']",Evenings,Creative,F6
+M029,20,['DIY'],Weekends,Indoor,F6
+M030,12,"['Cleaning', 'Painting', 'Gardening']",Weekdays,Outdoor,F6
+M031,20,"['Painting', 'Gardening']",Afternoons,Outdoor,F7
+M032,29,"['Painting', 'Cooking']",Weekends,Outdoor,F7
+M033,32,['Cleaning'],Evenings,Outdoor,F7
+M034,54,"['Cleaning', 'Baking', 'Cooking']",Weekdays,Physical,F7
+M035,55,"['DIY', 'Gardening']",Afternoons,Indoor,F7
+M036,33,"['Organizing', 'Cooking', 'Cleaning']",Afternoons,Outdoor,F8
+M037,21,['Organizing'],Evenings,Indoor,F8
+M038,32,['Cooking'],Afternoons,Outdoor,F8
+M039,32,"['Cleaning', 'Painting']",Evenings,Outdoor,F8
+M040,34,['Baking'],Afternoons,Outdoor,F8
+M041,34,['Cleaning'],Evenings,Creative,F9
+M042,28,"['Gardening', 'Painting']",Afternoons,Outdoor,F9
+M043,34,"['Organizing', 'Cleaning', 'Painting']",Weekends,Outdoor,F9
+M044,10,['Organizing'],Weekdays,Indoor,F9
+M045,26,"['Baking', 'Cleaning']",Weekdays,Physical,F9
+M046,50,['DIY'],Weekends,Physical,F10
+M047,33,"['Cleaning', 'Teaching', 'Cooking']",Weekends,Indoor,F10
+M048,49,"['Organizing', 'Cooking']",Weekdays,Creative,F10
+M049,41,"['Painting', 'Gardening']",Afternoons,Indoor,F10
+M050,50,"['Organizing', 'Cleaning']",Weekends,Outdoor,F10
+M051,48,"['Painting', 'Organizing', 'Gardening']",Weekends,Indoor,F11
+M052,41,"['Cleaning', 'Painting', 'DIY']",Afternoons,Creative,F11
+M053,27,"['Baking', 'Organizing', 'Painting']",Weekdays,Outdoor,F11
+M054,43,['Baking'],Evenings,Outdoor,F11
+M055,43,"['Gardening', 'Painting', 'Cooking']",Weekdays,Physical,F11
+M056,33,['Teaching'],Evenings,Creative,F12
+M057,26,"['Baking', 'Gardening']",Weekends,Indoor,F12
+M058,28,['Gardening'],Weekdays,Outdoor,F12
+M059,29,"['DIY', 'Gardening']",Afternoons,Indoor,F12
+M060,42,['Teaching'],Afternoons,Outdoor,F12
+M061,24,"['Cooking', 'Teaching']",Afternoons,Creative,F13
+M062,10,['DIY'],Evenings,Creative,F13
+M063,26,"['Organizing', 'DIY']",Afternoons,Creative,F13
+M064,51,"['DIY', 'Painting']",Afternoons,Outdoor,F13
+M065,59,['Teaching'],Weekends,Physical,F13
+M066,32,"['Teaching', 'Cooking', 'Gardening']",Afternoons,Physical,F14
+M067,40,"['Gardening', 'Baking']",Afternoons,Creative,F14
+M068,49,"['Gardening', 'DIY']",Evenings,Physical,F14
+M069,38,['DIY'],Evenings,Physical,F14
+M070,43,"['DIY', 'Gardening', 'Teaching']",Afternoons,Creative,F14
+M071,42,"['DIY', 'Cooking']",Weekends,Indoor,F15
+M072,50,['Baking'],Weekdays,Outdoor,F15
+M073,37,"['Cleaning', 'Gardening']",Weekdays,Indoor,F15
+M074,31,"['Painting', 'Organizing', 'DIY']",Weekdays,Indoor,F15
+M075,30,['DIY'],Weekdays,Outdoor,F15
+M076,16,"['DIY', 'Teaching', 'Cleaning']",Weekdays,Indoor,F16
+M077,45,"['Baking', 'DIY', 'Gardening']",Weekends,Outdoor,F16
+M078,21,['Teaching'],Afternoons,Outdoor,F16
+M079,14,"['Painting', 'Teaching']",Weekends,Physical,F16
+M080,45,['Cooking'],Weekdays,Indoor,F16
+M081,56,"['Cleaning', 'DIY']",Weekends,Creative,F17
+M082,37,['Gardening'],Weekdays,Physical,F17
+M083,49,"['Baking', 'Organizing']",Weekdays,Creative,F17
+M084,25,"['Painting', 'Gardening', 'Cleaning']",Afternoons,Creative,F17
+M085,49,['Teaching'],Weekends,Creative,F17
+M086,13,['Painting'],Afternoons,Outdoor,F18
+M087,11,['Cooking'],Afternoons,Indoor,F18
+M088,27,"['Painting', 'Baking']",Afternoons,Physical,F18
+M089,56,"['Teaching', 'Cleaning', 'Gardening']",Weekdays,Creative,F18
+M090,10,"['DIY', 'Teaching', 'Painting']",Evenings,Physical,F18
+M091,45,"['Gardening', 'DIY']",Afternoons,Outdoor,F19
+M092,25,"['Gardening', 'Teaching', 'DIY']",Evenings,Indoor,F19
+M093,36,"['Painting', 'DIY', 'Baking']",Afternoons,Indoor,F19
+M094,54,"['Gardening', 'Painting']",Weekends,Outdoor,F19
+M095,58,['Organizing'],Weekends,Creative,F19
+M096,50,['Cooking'],Weekends,Creative,F20
+M097,46,"['Painting', 'Baking', 'Gardening']",Afternoons,Physical,F20
+M098,51,"['Cleaning', 'Baking']",Weekends,Creative,F20
+M099,14,['DIY'],Afternoons,Physical,F20
+M100,20,['Cleaning'],Weekdays,Outdoor,F20
+M102,23,"['Teaching', 'DIY', 'Cooking']",Afternoons,Physical,F1
