@@ -69,7 +69,7 @@ An intelligent, machine learning-powered system designed to streamline household
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Family_Tasks_assignment.git
+   git clone https://github.com/MahmouddSalama/Family_Tasks_assignment.git
    cd Family_Tasks_assignment
    ```
 
@@ -153,14 +153,14 @@ Currently, the project supports manual verification via API clients like Postman
 ## 🖼 Visual Documentation
 
 ### API Workflow
-![API Add Member](file:///media/mahmoud-gado/New%20Volume/mohamed%20AbdelKAreem/Family_Tasks_assignment/family%20tasks/api/add%20memper%20function.png)
+![API Add Member](https://raw.githubusercontent.com/MahmouddSalama/Family_Tasks_assignment/main/family%20tasks/api/add%20memper%20function.png)
 *Figure 1: `add_member` function logic.*
 
-![API Task Assignment](file:///media/mahmoud-gado/New%20Volume/mohamed%20AbdelKAreem/Family_Tasks_assignment/family%20tasks/api/assign%20task%20.png)
+![API Task Assignment](https://raw.githubusercontent.com/MahmouddSalama/Family_Tasks_assignment/main/family%20tasks/api/assign%20task%20.png)
 *Figure 2: Task assignment endpoint in action.*
 
 ### Model Pipeline
-![Data Preprocessing](file:///media/mahmoud-gado/New%20Volume/mohamed%20AbdelKAreem/Family_Tasks_assignment/family%20tasks/model/data%20preprocessing.png)
+![Data Preprocessing](https://raw.githubusercontent.com/MahmouddSalama/Family_Tasks_assignment/main/family%20tasks/model/data%20preprocessing.png)
 *Figure 3: Data cleaning and feature encoding steps.*
 
 ---
